@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://dev.azure.com/omarlpz/omarlpz/_apis/build/status/onav21.calculator-demo?branchName=master)](https://dev.azure.com/omarlpz/omarlpz/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/ernieebanzon/AZ400Samples/_apis/build/status/ebanzon.calculator-demo?branchName=master)](https://dev.azure.com/ernieebanzon/AZ400Samples/_build/latest?definitionId=2&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
